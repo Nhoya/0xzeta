@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://nhoya.github.io"
 languageCode = "en-us"
 title = "0x7a"
 theme = "beautifulhugo"
