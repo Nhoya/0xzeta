@@ -21,13 +21,8 @@ canonifyurls = true
   paypal = "nhoya"
 
 [[menu.main]]
-    name = "About Me"
-    url = "page/about"
-    weight = 4
-
-[[menu.main]]
     identifier = "ctf"
-    name = "CTF"
+    name = "CTF 🚩"
     weight = 1
 
 [[menu.main]]
@@ -38,7 +33,7 @@ canonifyurls = true
 
 [[menu.main]]
     parent = "ctf"
-    name = "capturetheflag.it"
+    name = "ctf.it"
     url = "https://capturetheflag.it"
     weight = 2
 
@@ -97,4 +92,9 @@ canonifyurls = true
     parent = "feeds"
     name = "P=NP"
     url = "https://pequalsnp-team.github.io"
-    weight = 1    
+    weight = 1
+
+[[menu.main]]
+    name = "About Me"
+    url = "page/about"
+    weight = 5  
