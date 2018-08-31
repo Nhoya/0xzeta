@@ -15,15 +15,32 @@ canonifyurls = true
 	socialShare = true
 [Author]
   name = "Francesco Giordano"
-  website = "https://0xzeta.cf"
+  website = ""
   github = "Nhoya"
   twitter = "0x7a657461"
   paypal = "nhoya"
 
 [[menu.main]]
     name = "About Me"
-    url = "/about"
-    weight = 3
+    url = "page/about"
+    weight = 4
+
+[[menu.main]]
+    identifier = "ctf"
+    name = "CTF"
+    weight = 1
+
+[[menu.main]]
+    parent = "ctf"
+    name = "JBZ Team"
+    url = "https://jbzteam.github.io"
+    weight = 1
+
+[[menu.main]]
+    parent = "ctf"
+    name = "capturetheflag.it"
+    url = "https://capturetheflag.it"
+    weight = 2
 
 [[menu.main]]
     identifier = "projects"
@@ -32,37 +49,52 @@ canonifyurls = true
 
 [[menu.main]]
     parent = "projects"
-    name = "JBZ"
-    url = "https://jbzteam.github.io"
-    weight = 1
-
-[[menu.main]]
-    parent = "projects"
     name = "gOSINT"
     url = "https://github.com/Nhoya/gOSINT"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     parent = "projects"
     name = "SplitShare"
     url = "https://github.com/Nhoya/SplitShare"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     identifier = "writeups"
     name = "Writeups"
-    weight = 1
+    weight = 3
 
 [[menu.main]]
     parent = "writeups"
     name = "Pastebin and Reddit Markdown XSS"
-    url = "https://github.com/Nhoya/PastebinMarkdownXSS"
+    url = "post/pastebin-reddit-xss/"
     weight = 1
 
 [[menu.main]]
     parent = "writeups"
     name = "Mycroft AI \"Zero Click\" Remote Code Execution"
-    url = "https://github.com/Nhoya/MycroftAI-RCE"
+    url = "post/mycroftai-rce"
     weight = 2
 
+[[menu.main]]
+    identifier = "feeds"
+    name = "My Feeds"
+    weight = 4
 
+[[menu.main]]
+    parent = "feeds"
+    name = "Orange Tsai"
+    url = "https://blog.orange.tw"
+    weight = 2
+
+[[menu.main]]
+    parent = "feeds"
+    name = "x0rz"
+    url = "https://0day.rocks"
+    weight = 3
+
+[[menu.main]]
+    parent = "feeds"
+    name = "P=NP"
+    url = "https://pequalsnp-team.github.io"
+    weight = 1    
