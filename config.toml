@@ -1,0 +1,68 @@
+baseURL = ""
+languageCode = "en-us"
+title = "0x7a"
+theme = "beautifulhugo"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+paginate = 5
+Copyright = "All rights reserved - 2018"
+canonifyurls = true
+
+[params]
+	logo = "img/cat.jpg"
+	favicon = "img/favicon.ico"
+	socialShare = true
+[Author]
+  name = "Francesco Giordano"
+  website = "https://0xzeta.cf"
+  github = "Nhoya"
+  twitter = "0x7a657461"
+  paypal = "nhoya"
+
+[[menu.main]]
+    name = "About Me"
+    url = "/about"
+    weight = 3
+
+[[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    weight = 2
+
+[[menu.main]]
+    parent = "projects"
+    name = "JBZ"
+    url = "https://jbzteam.github.io"
+    weight = 1
+
+[[menu.main]]
+    parent = "projects"
+    name = "gOSINT"
+    url = "https://github.com/Nhoya/gOSINT"
+    weight = 2
+
+[[menu.main]]
+    parent = "projects"
+    name = "SplitShare"
+    url = "https://github.com/Nhoya/SplitShare"
+    weight = 3
+
+[[menu.main]]
+    identifier = "writeups"
+    name = "Writeups"
+    weight = 1
+
+[[menu.main]]
+    parent = "writeups"
+    name = "Pastebin and Reddit Markdown XSS"
+    url = "https://github.com/Nhoya/PastebinMarkdownXSS"
+    weight = 1
+
+[[menu.main]]
+    parent = "writeups"
+    name = "Mycroft AI \"Zero Click\" Remote Code Execution"
+    url = "https://github.com/Nhoya/MycroftAI-RCE"
+    weight = 2
+
+
