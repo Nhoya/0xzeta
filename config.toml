@@ -10,9 +10,10 @@ Copyright = "All rights reserved - 2018"
 canonifyurls = true
 
 [params]
-	logo = "img/cat.jpg"
+	logo = "img/cat.png"
 	favicon = "img/favicon.ico"
 	socialShare = true
+    subtitle = "ITSec-related Rants, Writeup and Projects"
 [Author]
   name = "Francesco Giordano"
   website = ""
@@ -39,7 +40,7 @@ canonifyurls = true
 
 [[menu.main]]
     identifier = "projects"
-    name = "Projects"
+    name = "PROJECTS"
     weight = 2
 
 [[menu.main]]
@@ -56,7 +57,7 @@ canonifyurls = true
 
 [[menu.main]]
     identifier = "writeups"
-    name = "Writeups"
+    name = "WRITEUP"
     weight = 3
 
 [[menu.main]]
@@ -73,7 +74,7 @@ canonifyurls = true
 
 [[menu.main]]
     identifier = "feeds"
-    name = "My Feeds"
+    name = "MY FEEDS"
     weight = 4
 
 [[menu.main]]
@@ -95,6 +96,6 @@ canonifyurls = true
     weight = 1
 
 [[menu.main]]
-    name = "About Me"
+    name = "ABOUT ME"
     url = "page/about"
     weight = 5  
