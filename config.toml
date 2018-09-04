@@ -13,7 +13,7 @@ canonifyurls = true
 	logo = "img/cat.png"
 	favicon = "img/favicon.ico"
 	socialShare = true
-    subtitle = "ITSec-related Rants, Writeup and Projects"
+    subtitle = "ITSec-related Rants, Writeups and Projects"
 [Author]
   name = "Francesco Giordano"
   website = ""
@@ -57,7 +57,7 @@ canonifyurls = true
 
 [[menu.main]]
     identifier = "writeups"
-    name = "WRITEUP"
+    name = "WRITEUPS"
     weight = 3
 
 [[menu.main]]
