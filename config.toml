@@ -79,6 +79,12 @@ canonifyurls = true
 
 [[menu.main]]
     parent = "feeds"
+    name = "P=NP"
+    url = "https://pequalsnp-team.github.io"
+    weight = 1
+
+[[menu.main]]
+    parent = "feeds"
     name = "Orange Tsai"
     url = "https://blog.orange.tw"
     weight = 2
@@ -91,9 +97,9 @@ canonifyurls = true
 
 [[menu.main]]
     parent = "feeds"
-    name = "P=NP"
-    url = "https://pequalsnp-team.github.io"
-    weight = 1
+    name = "antipatico"
+    url = "https://antipatico.ml"
+    weight = 4
 
 [[menu.main]]
     name = "ABOUT ME"
