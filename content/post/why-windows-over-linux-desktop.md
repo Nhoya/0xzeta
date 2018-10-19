@@ -3,7 +3,6 @@ title: "Why Windows Over Linux Desktop"
 date: 2018-10-19T13:37:43+02:00
 subtitle: "My experience with Linux on desktop and why I'm moving to Windows"
 tags: [ "rant", "linux", "windows" ]
-draft: true
 ---
 
 _Yes. This is yet another rant._
