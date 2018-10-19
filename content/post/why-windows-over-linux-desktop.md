@@ -31,7 +31,7 @@ Recently a [new Code of Conduct](https://git.kernel.org/pub/scm/linux/kernel/git
 - Starting from the day 0 after the release of the CoC one of the top Kernel contributors Ted Tso was [accused to be a "rape apologist"](https://twitter.com/_sagesharp_/status/1042769399596437504)
 - [The Contributor Covenant author is strongly against meritocracy](https://postmeritocracy.org/)
 
-I'm not directly part of the Linux development community but this will affect all the users indirectly, losing a good contributor is always a bad thing. Also this CoC means introducing a political view inside the development process of a software that _IMHO_ should never be influenced by that. You, as a contributor, should be judged by you code quality not your personal life (I think that [ReiserFS](https://en.wikipedia.org/wiki/Hans_Reiser) is one of the best examples)
+I'm not directly part of the Linux development community but this will affect all the users indirectly, losing a good contributor is always a bad thing. Also this CoC means introducing a political view inside the development process of a software that _IMHO_ should never be influenced by that. You, as a contributor, should be judged by you code quality not your personal life (I think that [ReiserFS](https://en.wikipedia.org/wiki/Hans_Reiser) is one of the best examples).
 
 ## "Microsoft is spying on us!"
 
@@ -112,7 +112,7 @@ Secure Boot prevents attacks on the bootloader verifying its signature. If it's 
 - [CentOS](https://blog.centos.org/2018/08/secureboot-rolling-out-new-shim-pkgs-for-centos-7-5-1804-in-cr-repository-asking-for-testers-feedback/)
 - [Debian maybe in 2019 :)](https://www.phoronix.com/scan.php?page=news_item&px=Debian-UEFI-SecureBoot-2018)
 
-Those are things that, without any doubte, can be archived under Linux too, but you need more time and skills: DIY is not always the solution, specially if you don't have time or skills.
+Those are things that, without any doubt, can be archived under Linux too, but you need more time and skills: DIY is not always the solution, specially if you don't have time or skills.
 
 [Qubes](https://www.qubes-os.org/), for example, has a sandbox-based design by default but lacks in usability and its [system requirements](https://www.qubes-os.org/news/2016/09/02/4-0-minimum-requirements-3-2-extended-support/) are higher compared to other solutions
 
