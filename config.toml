@@ -12,7 +12,7 @@ canonifyurls = true
 [params]
 	logo = "img/cat.png"
 	favicon = "img/favicon.ico"
-	socialShare = true
+	socialShare = false
     subtitle = "ITSec-related Rants, Writeups and Projects"
 [Author]
   name = "Francesco Giordano"
