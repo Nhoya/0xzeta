@@ -66,6 +66,8 @@ The issue comes when there are N *widely used* distributions that are, after all
 
 - [Gentoo GitHub repo was backdoored due to Password Reuse](https://www.gentoo.org/news/2018/06/28/Github-gentoo-org-hacked.html)
 
+- [Project0 accuses sluggish kernel patching of Debian and Ubuntu for threatening users security](https://www.zdnet.com/article/google-project-zero-to-linux-distros-your-sluggish-kernel-patching-puts-users-at-risk/)
+
 Of course, those are things that can happen to everyone, except that for the case of Antergos and Deepin having a security team would be great.
 
 For Kali the problem is different since it's run by a security company for security people, and a lack of security here is probably relative to a lack of attention in packages selection.
