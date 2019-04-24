@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bsod.dev
+Token: 63e11da4ffc7b29f436d09bf60ce83f710e4525fefc3cd4506fa20d25268edc0
