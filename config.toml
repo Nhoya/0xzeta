@@ -9,6 +9,9 @@ paginate = 5
 Copyright = "All rights reserved - 2018"
 canonifyurls = true
 
+[blackfriday]
+  hrefTargetBlank = true
+
 [params]
 	logo = "img/cat.png"
 	favicon = "img/favicon.ico"
