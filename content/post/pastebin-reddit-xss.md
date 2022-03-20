@@ -73,5 +73,5 @@ Publishing this writeup on reddit.com we found out that the new interface was af
 
 ## Interested in my works?
 
-Follow me on twitter `@0x7a657461` and linkedin `0xzeta`
+Follow me on twitter `@0xakuma` and linkedin `0xzeta`
 
